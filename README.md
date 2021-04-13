@@ -10,7 +10,7 @@
 <h2 align="center">Hello there! My name is Jillian Etheredge. 👋🤓</h2>
 <p align="center">I'm a Data Scientist just starting my career.
 I'm currently pursuing my first data science position, building a portfolio, and expanding my knowledge of and experience with new machine/deep learning concepts.
-I'm currently passionate about Natural Language Processing, Computervision, GANs, Sustainability, Neural Nets, Ecological Conservation, SQL, Destigmatizing and Increasing Availability of Mental Healthcare, Solving world problems, Optimization, and Automation.
+I'm currently passionate about Natural Language Processing, Computervision, GANs, Sustainability, Neural Nets, Ecological Conservation, SQL, Destigmatizing and Increasing Availability of Mental Healthcare, Optimization, and Automation.
 When I'm not job hunting and building models, you can find me playing tabletop roleplaying games, reading science fiction, listening to podcasts, or playing with my dog. But most of my days are spent working on projects, listening to a playlist of music genres that probably shouldn't be mixed, studying or watching scifi/fantasy shows.</p>
 
 <p align="center">
