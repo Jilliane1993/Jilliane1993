@@ -17,6 +17,25 @@ When I'm not job hunting and building models, you can find me playing tabletop r
   <img height="200" src="https://github.com/Jilliane1993/Jilliane1993/blob/main/images/typing_cat.gif">
 </p>
 
+<hr>
+<details>
+<summary><h2 align="center"> My GitHub Stats</h2></summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jilliane1993&show_icons=true&theme=blue-green" alt="Jilliane1993" />
+</p>  
+
+</details>
+
+
+</br>
+<h2 align="center"> My Current Favorite Projects</h2>
+<a href="https://github.com/Jilliane1993/Wildlife_Image_Classification" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jilliane1993&repo=Wildlife_Image_Classification&theme=blue-green&show_icons=true" />
+</a>
+<a href="https://github.com/Jilliane1993/Starfinder_NLP" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jilliane1993&repo=Starfinder_NLP&theme=blue-green&show_icons=true" />
+</a>
+
 <!---
 Jilliane1993/Jilliane1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
